@@ -3,7 +3,7 @@ from typing import Optional
 
 from pydantic import BaseModel, Field, field_validator
 
-from app.models.supplier import Supplier
+from Aufgaben.FastAPI.app.models.supplier import Supplier
 
 
 class ExternalProduct(BaseModel):
