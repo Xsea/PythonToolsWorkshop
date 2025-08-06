@@ -1,6 +1,6 @@
 valid_data = {
     "item_id": 101,
-    "productName": "Laptop",
+    "product_Name": "Laptop",
     "initial_price": "1200.50",
     "received_date": "25.10.1991",
 }
