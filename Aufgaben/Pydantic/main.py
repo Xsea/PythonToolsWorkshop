@@ -2,7 +2,7 @@ valid_data = {
     "item_id": 101,
     "product_Name": "Laptop",
     "initial_price": "1200.50",
-    "received_date": "25.10.1991",
+    "received_date": "2024-01-15",
 }
 
 product = ExternalProduct(**valid_data)
